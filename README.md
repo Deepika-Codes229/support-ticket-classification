@@ -36,4 +36,5 @@ This project uses Machine Learning to automatically classify support tickets and
 - Dataset used
 
 ## 👩‍💻 Author
-Your Name
+A Deepika
+
